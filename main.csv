@@ -1,0 +1,4 @@
+Number,Task,Discussion,Action item,Owner,Due Date,Remarks
+1,Improvement works,Discussion on the works,First Action Item,First Guy,25-10-23,WIP
+,,,Second Action Item,"First guy, Second Guy",25-10-23,WIP
+2,Implementation works,"In the meeting a decision was made to apply a write/read source module which can control the slave error, pready, prdata and write and read FIFO selection. ",First Action Item,Third Guy,25-10-23,WIP
